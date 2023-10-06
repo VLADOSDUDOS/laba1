@@ -1,8 +1,0 @@
-<Movie>
-    <title>Movie 1</title>
-    <year>2022</year>
-    <director>Director 1</director>
-    <genre>Action</genre>
-    <duration>120</duration>
-    <actors>['Actor 1', 'Actor 2']</actors>
-</Movie>
