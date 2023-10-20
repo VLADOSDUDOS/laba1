@@ -1,8 +1,0 @@
-<TVShow>
-    <title>TV Show 1</title>
-    <year>2023</year>
-    <director>Director 2</director>
-    <seasons>5</seasons>
-    <episodes_per_season>10</episodes_per_season>
-    <genre>action</genre>
-</TVShow>
