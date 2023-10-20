@@ -1,0 +1,34 @@
+{
+    "movies": [
+        {
+            "title": "movie 55",
+            "duration": 312,
+            "author": "Autor 6",
+            "director": "Director 8",
+            "genre": "Comedy"
+        },
+        {
+            "title": "Movie 1",
+            "duration": 150,
+            "author": "Autor 2",
+            "director": "Director 2",
+            "genre": "Comedy"
+        }
+    ],
+    "tvshows": [
+        {
+            "title": "TV Show 1",
+            "duration": 30,
+            "author": "Autor 1",
+            "season": 1,
+            "episode": 3
+        },
+        {
+            "title": "TV Show 3",
+            "duration": 30,
+            "author": "Season 2",
+            "season": 2,
+            "episode": 3
+        }
+    ]
+}
